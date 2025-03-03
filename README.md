@@ -1,0 +1,2 @@
+# send-ipv6-cloudflare_DDNS
+提示一个http接口给别的机获取本机ipv6，并定时推送通知，以及更新cloudflare的域名解析
