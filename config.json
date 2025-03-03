@@ -1,12 +1,12 @@
 {
-    "clientName": "我台式机",
+    "clientName": "我的笔记本",
     "interval": 15,
     "httpPort": "8080",
-    "baseURL": "http://jgw2.121683.xyz:8000/17DF0565BC584606925DE3D742FA66CB.send/",
-    "cloudflareToken": "46db7110ddb93810c638cdea34be733f3a209",
-    "cloudflareZone": "c00698c59a344bc19f7729af2fb00e69",
-    "cloudflareID": "4355ed3f9d7c32371703a53811419f35",
-    "cloudflareDomain": "home.12311.eu.org",
+    "baseURL": "短信推送url",
+    "cloudflareToken": "your token",
+    "cloudflareZone": "域名ID",
+    "cloudflareID": "解析ID",
+    "cloudflareDomain": "域名",
     "cloudflareBaseURL": "https://api.cloudflare.com",
-    "cloudflareEmail": "carto11114@gmail.com"
+    "cloudflareEmail": "账号"
 }
